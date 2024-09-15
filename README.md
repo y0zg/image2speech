@@ -39,7 +39,7 @@ export TESSDATA_PREFIX=/path/to/tessdata_directory
 
 ### Running the Script
 1. Place your images in a folder, e.g., `img/`.
-
+ 
 2. Update the list of image files in the script or set the folder path.
  
 3. Run the script:
