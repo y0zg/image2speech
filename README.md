@@ -13,17 +13,17 @@ pip install -r requirements.txt
 ### Tesseract Setup
 1. Install Tesseract:
 
-macOS (Homebrew):
+**macOS** (Homebrew):
 ```bash
 brew install tesseract
 ```
 
-Linux (APT):
+**Linux** (APT):
 ```bash
 sudo apt install tesseract-ocr
 ```
 
-Windows: Download and install from here https://github.com/tesseract-ocr/tesseract.
+**Windows**: Download and install from here https://github.com/tesseract-ocr/tesseract.
 
 2. Download required Language Data: (In my case I use Ukrainian language) `ukr.traineddata` from here https://github.com/tesseract-ocr/tessdata/blob/main/ukr.traineddata and place it in the `tessdata` directory:
 
